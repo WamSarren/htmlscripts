@@ -5,22 +5,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./styles.css">
     <title id="title">SquishyMuffinz</title>
+	<style>
+	img {
+  display: block;
+  text-align: center;
+  max-width: 100%;
+  height: auto;
+  border: 0;
+  margin: center;
+}
+	</style>
   </head>
   <main id="main">
     <h1>SquishyMuffinz</h1>
     <h2>The man who changed rocket league<h2>
   <div class="img" id="img-div">
-    <img id="img-div" src="https://www.famousbirthdays.com/faces/squishymuffinz-image.jpg"><caption id="img-caption">Canadian Esports Player SquishyMuffinz</caption>
+    <img id="image" src="https://www.famousbirthdays.com/faces/squishymuffinz-image.jpg"><figcaption id="img-caption">Canadian Esports Player SquishyMuffinz</figcaption>
     </div>
     <section id="tribute-info">
       <h3 id="headline">Here are some of SquishyMuffinz Achievements</h3>
       <ul>
-        <li><strong>2017</strong> Placed 1st in Season 4 NA Rocket League Championship(RLCS)</li>
-
-
-
+        <li><strong>2017</strong> His team Cloud 9 placed 1st in Season 4 NA Rocket League Championship(RLCS) and 3rd in Rocket League World Championship</li>
+        <br>
+        <li><strong>2018</strong> His team Cloud 9 placed 4th in Season 5 NA RLCS and 3rd in RL World Championship</li>
+        <br>
+        <li><strong>2019</strong> His team Cloud 9 placed 1st in Season 6 RL World Championship and later on that year 3rd in Season 7 RL World Championship</li>
     </section>
-
-
-
+<h4 for="tribute-link">Read more about SquishyMuffinz <a id="tribute-link" href="https://rl-esports.fandom.com/wiki/SquishyMuffinz" value="tribute-link" target="_blank">here</a></h4>
   </main>
