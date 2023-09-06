@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang-"en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+    <title id="title">SquishyMuffinz</title>
+  </head>
+  <main id="main">
+    <h1>SquishyMuffinz</h1>
+    <h2>The man who changed rocket league<h2>
+  <div class="img" id="img-div">
+    <img id="img-div" src="https://www.famousbirthdays.com/faces/squishymuffinz-image.jpg"><caption id="img-caption">Canadian Esports Player SquishyMuffinz</caption>
+    </div>
+    <section id="tribute-info">
+      <h3 id="headline">Here are some of SquishyMuffinz Achievements</h3>
+      <ul>
+        <li><strong>2017</strong> Placed 1st in Season 4 NA Rocket League Championship(RLCS)</li>
+
+
+
+    </section>
+
+
+
+  </main>
